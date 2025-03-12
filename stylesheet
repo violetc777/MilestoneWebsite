@@ -1,0 +1,26 @@
+h1 {
+            background-color: rgb(150, 234, 255);
+            color:rgb(233, 231, 217);
+            font-family: Arial;
+        }
+        .watermelon {
+            background-color:rgb(139, 195, 233);
+        }
+        #crumble {
+            background-color:paleturquoise ;
+            color: #faffb2;
+        }
+        #cookie {
+            background-color: azure 
+            border="4"
+        }
+        p {
+            text-align: center;
+        }
+        img {
+            text-align: center;
+        }
+        div.computer:hover {
+            color: skyblue;
+        }
+    

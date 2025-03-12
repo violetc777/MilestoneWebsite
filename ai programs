@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+
+<head>
+   <meta charset="UTF-8">
+  <meta name="viewpoint" conent="width-device-width" inital-scale="1.0">
+  <title>ai Programs</title>
+  <link rel="stylesheet" type="text/css">
+
+  <body>
+    <header><div class="computer"> Ai programs</div></header>
+    <main><p>
+AI programs are powered by complex algorithms. They allow computers to mimic human intelligance</p>
+<img src="https://omq.ai/static/cd355ea1fb1140a2d62dec82d2044ea9/ec056/history_of_AI_inside_01_en.png">
+    </main>
+  </body>
